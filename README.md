@@ -23,12 +23,9 @@ git clone https://github.com/SDSDFFG-rgb/huggingface-upload-tool.git
 
 *Install the required libraries.
 
-pip install tkinterdnd2 huggingface_hub
+pip install tkinterdnd2 huggingface_hub huggingface_cli
 
-Install and log in to the Hugging Face CLI.
-
-pip install huggingface_cli
-
+log in to the Hugging Face CLI.
 
 huggingface-cli login
 

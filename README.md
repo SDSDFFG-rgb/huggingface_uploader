@@ -18,7 +18,7 @@ Clone or download this repository.
 
 git clone https://github.com/SDSDFFG-rgb/huggingface-upload-tool.git
 
-Install the required libraries.
+*Install the required libraries.
 
 pip install tkinterdnd2 huggingface_hub
 

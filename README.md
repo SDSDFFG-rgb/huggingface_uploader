@@ -28,6 +28,8 @@ pip install tkinterdnd2 huggingface_hub
 Install and log in to the Hugging Face CLI.
 
 pip install huggingface_cli
+
+
 huggingface-cli login
 
 *Usage

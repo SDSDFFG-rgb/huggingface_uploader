@@ -1,11 +1,13 @@
 Hugging Face Upload Tool
 This tool is a simple GUI application for uploading files to Hugging Face repositories.
-Features
+
+*Features
 Drag & drop file path input
 Repository name history and auto-completion
 Subfolder specification
 File upload using Hugging Face CLI
-Requirements
+
+*Requirements
 Python 3.6 or higher
 tkinter
 tkinterdnd2

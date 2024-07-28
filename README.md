@@ -1,4 +1,5 @@
 Hugging Face Upload Tool
+
 This tool is a simple GUI application for uploading files to Hugging Face repositories.
 
 *Features

@@ -41,6 +41,7 @@ Drag & drop the files or folders you want to upload into the "File/Folder Paths"
 Click the "Execute" button to start the upload.
 
 *Notes
+
 Make sure you're logged in to the Hugging Face CLI before using this tool.
 Upload history is saved in the upload_history.txt file.
 

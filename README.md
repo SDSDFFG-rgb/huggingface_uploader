@@ -16,7 +16,7 @@ Hugging Face CLI
 *Installation
 Clone or download this repository.
 
-git clone https://github.com/yourusername/huggingface-upload-tool.git
+git clone https://github.com/SDSDFFG-rgb/huggingface-upload-tool.git
 
 Install the required libraries.
 

@@ -4,8 +4,7 @@ A Python Tkinter application for uploading files and folders to the Hugging Face
 
 ## Screenshot
 
-![Screenshot of the Hugging Face Upload Tool](placeholder.png)
-*(Please replace `placeholder.png` with the actual path to your screenshot after you take one.)*
+https://github.com/user-attachments/assets/d9ffd278-6f55-4737-b0fb-2b0e7c2162d7
 
 ## Key Features
 

@@ -28,12 +28,9 @@ A Python Tkinter application for uploading files and folders to the Hugging Face
 
 1.  **Clone the repository (or download the script):**
     ```bash
-    git clone https://your-github-repo-url/hf-uploader-tool.git
-    cd hf-uploader-tool
+    git clone https://github.com/SDSDFFG-rgb/huggingface_uploader
+    cd huggingface_uploader
     ```
-    (Replace `https://your-github-repo-url/hf-uploader-tool.git` with the actual URL of your repository.)
-    If you only have the script file (e.g., `hf_uploader_app.py`), save it to a directory on your computer.
-
 2.  **Install required Python libraries:**
     This application uses `TkinterDnD2` for drag-and-drop functionality.
     Open your terminal or command prompt and run:
@@ -51,9 +48,8 @@ A Python Tkinter application for uploading files and folders to the Hugging Face
 1.  **Run the application:**
     Navigate to the directory where you saved the script and run:
     ```bash
-    python hf_uploader_app.py
+    python huggingface_upload_tool.py
     ```
-    (Replace `hf_uploader_app.py` with the actual name of your Python script file if it's different.)
 
 2.  **Fill in the details:**
     *   **Repository**: Enter your Hugging Face repository ID in the format `YourUsername/RepoName` or `OrganizationName/RepoName`. You can also select from previously used repositories in the dropdown.
